@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97c242d04b1d2245acec396b8386870, type: 3}
+  m_Name: ModernSniper
+  m_EditorClassIdentifier: 
+  weaponName: Sniper
+  weaponIcon: {fileID: 186065834550485995, guid: 43765e3aa4b0f46f0bed34c8e91722d6, type: 3}
+  weaponPrefab: {fileID: 8043021493030528689, guid: 23a04c037be2c42d1a0a84dee658288a, type: 3}
+  pickupPrefab: {fileID: 5813703267447663309, guid: 279d249bae6c24ef3beaea6df1333805, type: 3}

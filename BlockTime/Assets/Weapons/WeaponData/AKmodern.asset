@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97c242d04b1d2245acec396b8386870, type: 3}
+  m_Name: AKmodern
+  m_EditorClassIdentifier: 
+  weaponName: AKmod
+  weaponIcon: {fileID: -6789359849615636906, guid: 6d5c7a0f2e03f41ca8f5437a43241d14, type: 3}
+  weaponPrefab: {fileID: 2376008727375943860, guid: bd9b19486380a4e549da0fb9c115c005, type: 3}
+  pickupPrefab: {fileID: 5813703267447663309, guid: 499fc649a39264c4884d1993779505e9, type: 3}

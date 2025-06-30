@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97c242d04b1d2245acec396b8386870, type: 3}
+  m_Name: Tire
+  m_EditorClassIdentifier: 
+  weaponName: Tire
+  weaponIcon: {fileID: 21300000, guid: c3a97aba79a50d541ba4184144963511, type: 3}
+  weaponPrefab: {fileID: 6692735811294872793, guid: b67a61fa25463834a85a5c991d5b596a, type: 3}
+  pickupPrefab: {fileID: 1279909030802935053, guid: 638f8bfa6e2e6b6449cfc7e569ac32fb, type: 3}

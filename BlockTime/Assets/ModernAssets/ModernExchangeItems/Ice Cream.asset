@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97c242d04b1d2245acec396b8386870, type: 3}
+  m_Name: Ice Cream
+  m_EditorClassIdentifier: 
+  weaponName: Ice Cream
+  weaponIcon: {fileID: 21300000, guid: 21cbf7d006406c64b955f793db3eb2dd, type: 3}
+  weaponPrefab: {fileID: 8379768122827767410, guid: 53b9a93806e90204e93e439380491c1e, type: 3}
+  pickupPrefab: {fileID: 9071020754754048935, guid: 12f5aeced4a665a46b965467f8a43536, type: 3}

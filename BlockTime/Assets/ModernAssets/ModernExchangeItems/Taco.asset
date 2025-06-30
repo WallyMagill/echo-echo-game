@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97c242d04b1d2245acec396b8386870, type: 3}
+  m_Name: Taco
+  m_EditorClassIdentifier: 
+  weaponName: Taco
+  weaponIcon: {fileID: 21300000, guid: 2c5982abba34c20478a72a2573b005b1, type: 3}
+  weaponPrefab: {fileID: 5964458415685863833, guid: 84001ee5d199c2b47b373c850cf8fa99, type: 3}
+  pickupPrefab: {fileID: 3639201646836205754, guid: 42a763bcc2083a846be273c1128365a0, type: 3}

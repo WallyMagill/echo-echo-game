@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dungeon Guard AOC
+  m_Controller: {fileID: 9100000, guid: 99b59c7dc9b1fd2489fb0f9f122070a9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c7d92a72d364db242b51fa6c55d37e2b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a22864783dba748f692217a69175536b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9485a957f0126b64f92e6bb7f730fdaa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0e396219c90ae4c1abfcabe461e4e86f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d970b6b48ad29a64eb055d5708b83201, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0e396219c90ae4c1abfcabe461e4e86f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: aa28aba5492692041bb091e9cf3e2c9e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7271af68d91883c41ace865ed171b34c, type: 2}

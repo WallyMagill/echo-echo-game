@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Flit
+  m_Controller: {fileID: 9100000, guid: 99b59c7dc9b1fd2489fb0f9f122070a9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: aa28aba5492692041bb091e9cf3e2c9e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1062f649def11ac4890f4c0331c08179, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9485a957f0126b64f92e6bb7f730fdaa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cce0a325b879492488c10b357924c8bc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c7d92a72d364db242b51fa6c55d37e2b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 67f255ac53ef58d439d9512e2fdefe28, type: 2}

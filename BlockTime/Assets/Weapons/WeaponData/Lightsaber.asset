@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97c242d04b1d2245acec396b8386870, type: 3}
+  m_Name: Lightsaber
+  m_EditorClassIdentifier: 
+  weaponName: Lightsaber
+  weaponIcon: {fileID: 506040782, guid: 3393ca7397cbaa7469ea14c82713bb38, type: 3}
+  weaponPrefab: {fileID: 1476118741075118432, guid: 4e6d6fff9a0da9744ab1354531c4ccb4, type: 3}
+  pickupPrefab: {fileID: 7788038296339329082, guid: 873f20e78940f754db4a5546ce69a3c5, type: 3}
