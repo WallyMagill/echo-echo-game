@@ -1,7 +1,5 @@
 # echo echo
 
-![Team Photo](images/first_team_meeting_proof.jpeg)
-
 The question we set out to answer was how might we create a fun 2D game that engages the user with an eye-catching art style and captivating story. 
 We created the tutorial level, medieval level, modern level, and space level for a 2D time-travel game in a pixel art style.  
 
@@ -31,7 +29,7 @@ Download and run the Unity build for the game.
 
 ## Authors
 
-Kent Koehler, Kirsten Mayland, Logan Dailey, Sangha Jang, Theo Kessel, and Wally Magill
+Wally Magill, Kent Koehler, Kirsten Mayland, Logan Dailey, Sangha Jang, and Theo Kessel
 
 ## Acknowledgments
 
